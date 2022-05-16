@@ -1,0 +1,12 @@
+# Composer files
+vendor/
+
+# Other directories & files
+var/
+
+docker/
+
+nbproject/
+
+composer.lock
+
